@@ -176,6 +176,7 @@ This is a Sentence That Needs CamelCasing!
 Переглянув список доступних інтерпретаторів за допомогою команди Python: Select interpreter
 
 
+
 Робота зі змінними середовища
 
 Створив файл .env та виконав наступний код: python import os os.environ['HELLO']
@@ -187,6 +188,7 @@ This is a Sentence That Needs CamelCasing!
      File "C:\python_labs\lab 6\lab6-3.py", line 2, in 
          os.environ['HELLO']
  ```
+![image](https://raw.githubusercontent.com/ArtemDidukh/Registration-and-submission-of-works/main/Lab/Lab6/img1.png)
 
 Висновок:
 В ході роботи я ознаймився з основами роботи із сторонніми бібліотеками, їх інсталяція та управління. Навчився встановлювати та налаштовлувати віртуальні середовища, працювати з ними;
